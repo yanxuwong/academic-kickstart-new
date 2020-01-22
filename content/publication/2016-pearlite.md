@@ -72,7 +72,7 @@ slides = "https://www.sciencedirect.com/science/article/pii/S0921509316310607"
 
 [[url_custom]]
 name = "Journal"
-url = "https://www.amazon.com/Endangered-Languages-Technologies-Mari-Jones/dp/1107049598"
+url = "10.1016/j.msea.2016.08.122"
 
 # Focal point (optional)
  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
