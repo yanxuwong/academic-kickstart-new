@@ -5,3 +5,7 @@
 # If you are not using those tools, this file may be deleted.
 #
 # The actual configuration files are stored in the `config/_default/` folder.
+
+[params.menus]
+  # Align the main menu to the right of the page? (true/false)
+  align_right = true
