@@ -8,7 +8,7 @@ data: Sep. 2016
 
 authors: Yanxu Wang, 
 
-tag:
+tag:""
 
 # A page can be displayed in the Featured widget, ture/flase
 featured: true
@@ -30,13 +30,5 @@ header:
 #  caption: "Photo by [Academic](https://sourcethemes.com/academic/)"
 #  focal_point: "Center"
 #  preview_only: false
-
-
-This was a poster presentation presented at the 18th International Conference of Phonetic Sciences in 2015. Links are to the poster and the 5 page paper is in the conference proceedings.
-
-**Citeable as**:
-
-Hugh J. Paterson III (2015) Phonetic transcription of tone in the IPA.  In The Scottish Consortium for ICPhS 2015 (Ed.). *Proceedings of the 18th International Conference of Phonetic Sciences* Paper number 507.1-5. University of Glasgow: Glasgow, UK.
-
 
 ---
