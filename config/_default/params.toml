@@ -85,7 +85,7 @@ email = "WANG.Yanxu@nims.go.jp"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = "1-2-1 Sengen,Tsukuba, Ibaraki 305-0047, Japan"
+address = {street = "1-2-1 Sengen", city = "Tsukuba", region = "Ibaraki", postcode = "305-0047", country = "Japan", country_code = "JPN"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
