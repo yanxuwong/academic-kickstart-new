@@ -59,6 +59,12 @@ slides = "https://www.sciencedirect.com/science/article/pii/S0921509316310607"
 #  caption: ""
 #  image: ""
 
+# View.
+#   1 = List
+#   2 = Compact
+#   3 = Card
+#   4 = Citation
+view: 2
 
 # Links (optional).
 #url_pdf = ""
