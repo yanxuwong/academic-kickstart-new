@@ -17,11 +17,11 @@ publication_short = "ISIJ Int"
 
 featured = true
 #image:
-  placement: 1
-  caption: ""
-  focal_point: "Smart"
-  preview_only: false
-  image: "test.jpg"
+#  placement: 1
+#  caption: ""
+#  focal_point: "Smart"
+#  preview_only: false
+#  image: "test.jpg"
 
 # Optional header image (relative to `static/img/` folder).
 #header:
