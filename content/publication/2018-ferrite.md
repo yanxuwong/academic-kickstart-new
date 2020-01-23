@@ -5,7 +5,7 @@ title = "In situ Neutron Diffraction Study on Ferrite and Pearlite Transformatio
 
 abstract = "The phase transformation behavior from austenite upon cooling in a 1.5Mn-1.5Si-0.2C steel was in situ monitored using dilatometry, X-ray and neutron diffractions. The starting temperature of ferrite transformation was in good agreement between dilatometry and neutron diffraction, whereas much higher in X-ray diffraction. Such a discrepancy in transformation temperature is attributed to the change in chemical composition near the surface of a specimen heated to elevated temperatures in a helium gas atmosphere for X-ray diffraction. In situ neutron diffraction enables us to investigate the changes in lattice constants of ferrite and austenite, which are affected by not only thermal contraction but also transformation strains, thermal misfit strains and carbon enrichment in austenite. Pearlite transformation started after carbon enrichment in austenite reached approximately 0.7 mass% and contributed to diffraction line broadening."
 
-abstract_short = ""
+abstract_short = "The phase transformation behavior from austenite upon cooling in a 1.5Mn-1.5Si-0.2C steel was in situ monitored using dilatometry, X-ray and neutron diffractions."
 authors = ["Yo Tomota", "Yanxu Wang", "Takahito Ohmura", "Nobuaki Sekido", "Stefanus Harjo", "Takuro Kawasaki", "Wu Gong", "Akira Taniyama"]
 date = "2018-05-10"
 image_preview = ""
