@@ -24,9 +24,9 @@ featured = true
 #  image: "test.jpg"
 
 # Optional header image (relative to `static/img/` folder).
-header:
-  caption: ""
-  image: "static/img/test.jpg"
+#header:
+#  caption: ""
+#  image: "static/img/test.jpg"
 
 url_code = ""
 url_dataset = ""
