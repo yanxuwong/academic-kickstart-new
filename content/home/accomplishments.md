@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   title = "1st prize in Hunan Province | AIIA cup Artificial Intelligence tour Sophon station "
   url = ""
   #certificate_url = "https://www.coursera.org"
-  date_start = "2019-1-1"
+  date_start = "2019-01-01"
   date_end = ""
   description = ""
 
