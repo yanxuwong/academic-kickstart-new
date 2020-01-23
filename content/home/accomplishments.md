@@ -1,7 +1,7 @@
 +++
 # Accomplishments widget.
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
+headless = false  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 100  # Order that this section will appear.
 
@@ -17,35 +17,61 @@ date_format = "Jan 2006"
 #   `title`, `organization` and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-
 [[item]]
-  organization = "PRICM9"
-  organization_url = "http://web.apollon.nta.co.jp/PRICM9"
-  title = "Excellent Poster Award for Young Scientist"
+  #organization = "Coursera"
+  organization_url = "https://www.coursera.org"
+  title = "1st prize in Hunan Province | AIIA cup Artificial Intelligence tour Sophon station "
   url = ""
-  certificate_url = ""
-  date_start = "2016-8-1"
+  #certificate_url = "https://www.coursera.org"
+  date_start = "2019-09-17"
   date_end = ""
   description = ""
 
 [[item]]
-  organization = "ISIJ"
-  organization_url = "https://www.isij.or.jp/?lang=english"
-  title = "Sawamura Award"
+  #organization = "Coursera"
+  organization_url = ""
+  title = "Top 8 (30+ teams) | Best maker project of Huazhong HackFun maker marathon"
   url = ""
-  certificate_url = ""
-  date_start = "2019-1-1"
+  date_start = "2019-05-01"
   date_end = ""
-  description = "1"
+  description = ""
+
+[[item]]
+  #organization = "Coursera"
+  organization_url = ""
+  title = "Top 1.5% | Excellent undergraduate graduation project of CQU"
+  url = ""
+  #certificate_url = "https://www.coursera.org"
+  date_start = "2017-06-01"
+  date_end = ""
+  description = ""
+
+[[item]]
+  #organization = ""
+  organization_url = "https://www.edx.org"
+  title = "Top 10% of 6,000 teams | Second price in National Computer Design Competition"
+  url = ""
+  #certificate_url = ""
+  date_start = "2016-08-15"
+  date_end = ""
+  description = ""
   
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  #organization = "DataCamp"
+  #organization_url = "https://www.datacamp.com"
+  title = "First Price in Smart Campus application competition of CQU"
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
+  #certificate_url = "https://www.datacamp.com"
+  date_start = "2015-05-10"
+  date_end = ""
   description = ""
-
+[[item]]
+  #organization = "DataCamp"
+  #organization_url = "https://www.datacamp.com"
+  title = "Third price in IBM Master the Mainframe Global Contest"
+  url = ""
+  #certificate_url = "https://www.datacamp.com"
+  date_start = "2015-05-20"
+  date_end = ""
+  description = ""
 +++
