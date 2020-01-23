@@ -15,7 +15,7 @@ doi = "10.2355/isijinternational.ISIJINT-2018-336"
 publication = "ISIJ International"
 publication_short = "ISIJ Int"
 
-featured = true
+featured = ture
 image:
   placement: 1
   caption: ""
