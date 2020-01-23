@@ -8,8 +8,9 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 21  # Order that this section will appear.
 
-title = "Publications"
-subtitle = ""
+title = "Recent publications"
+#subtitle = "<a href='publication/'>Here</a> is a list of all of our publications"
+subtitle = "[List of all publications >>](publication/)"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
