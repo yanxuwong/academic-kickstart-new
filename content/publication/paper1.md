@@ -8,7 +8,7 @@ title: dadafdada
 #   4 = Citation
 view: 4
 
-featured = true
+featured = false
 
 # Optional header image (relative to `static/img/` folder).
 header:
