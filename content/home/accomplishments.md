@@ -29,7 +29,7 @@ date_format = "Jan 2006"
   description = ""
 
 [[item]]
-  #organization = "The Iron and Steel Institute of Japan 日本鉄鋼協会"
+  #organization = "ISIJ 日本鉄鋼協会"
   organization_url = "https://www.isij.or.jp/?lang=english"
   title = "Sawamura Award 澤村論文賞"
   url = ""
