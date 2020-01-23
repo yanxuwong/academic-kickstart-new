@@ -15,18 +15,18 @@ doi = "10.2355/isijinternational.ISIJINT-2018-336"
 publication = "ISIJ International"
 publication_short = "ISIJ Int"
 
-featured = ture
-image:
-  placement: 1
-  caption: ""
-  focal_point: "Center"
-  preview_only: false
-  image: "test.jpg"
+featured = true
+#image:
+#  placement: 1
+#  caption: ""
+#  focal_point: "Center"
+#  preview_only: false
+#  image: "test.jpg"
 
 # Optional header image (relative to `static/img/` folder).
-#header:
-#  caption: ""
-#  image: ""
+header:
+  caption: ""
+  image: "test.jpg"
 
 url_code = ""
 url_dataset = ""
