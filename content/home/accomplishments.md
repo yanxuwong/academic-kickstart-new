@@ -1,7 +1,7 @@
 +++
 # Accomplishments widget.
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = false  # This file represents a page section.
+headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 100  # Order that this section will appear.
 
@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   title = "Excellent Poster Award for Young Scientist"
   url = ""
   certificate_url = ""
-  date_start = "2016"
+  date_start = "2016-8-1"
   date_end = ""
   description = ""
 
@@ -34,7 +34,7 @@ date_format = "Jan 2006"
   title = "Sawamura Award"
   url = ""
   certificate_url = ""
-  date_start = "2019"
+  date_start = "2019-1-1"
   date_end = ""
   description = "澤村論文賞"
   
