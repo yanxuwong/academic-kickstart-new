@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  #organization = "PRICM9"
+  organization = "PRICM9"
   organization_url = "http://web.apollon.nta.co.jp/PRICM9/"
   title = "Excellent Poster Award for Young Scientist"
   url = ""
@@ -29,7 +29,7 @@ date_format = "Jan 2006"
   description = ""
 
 [[item]]
-  #organization = "ISIJ 日本鉄鋼協会"
+  organization = "ISIJ 日本鉄鋼協会"
   organization_url = "https://www.isij.or.jp/?lang=english"
   title = "Sawamura Award 澤村論文賞"
   url = ""
