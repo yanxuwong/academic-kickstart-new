@@ -9,7 +9,7 @@ title = "title"
 summary = "summary."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "Keyboard-3D-Lower-square.jpg"
+image_preview = "test1.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -28,8 +28,8 @@ name = "Previous Work"
 url = "/project/2012-mexico-keyboards/"
 
 [header]
-image = "headers/bubbles-wide.jpg"
-caption = "Input design :smile:"
+image = "headers/test.JPG"
+caption = ":smile:"
 
 +++
 This project formalized my interest in the text input problem. While doing text input for the Meꞌphaa language documentation project it was imperative to get Unicode encoded texts. I worked with Kevin Cline to create OS X and native Windows OS keyboards for Meꞌphaa writers.  We used [Ukelele](http://scripts.sil.org/ukelele) to create the OS X keyboards and  [Microsoft Keyboard Layout Creator (MSKLC)](https://msdn.microsoft.com/en-us/globalization/keyboardlayouts.aspx) to create the Windows keyboards.
