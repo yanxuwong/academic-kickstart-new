@@ -3,13 +3,13 @@
 date = "2012-03-12"
 
 # Project title.
-title = "title"
+title = "TAKUMI"
 
 # Project summary to display on homepage.
-summary = "summary."
+summary = "Solving various problems related to internal stresses and microstructures."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "test1.jpg"
+image_preview = "TAKUMI.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
