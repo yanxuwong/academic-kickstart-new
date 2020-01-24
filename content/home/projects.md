@@ -64,6 +64,12 @@ subtitle = ""
   # image = "background.jpg"  # Name of image in `static/img/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
+[image]
+  placement: 1
+  caption: "Photo by [Academic](https://sourcethemes.com/academic/)"
+  focal_point: "Center"
+  preview_only: false
+
   # Text color (true=light or false=dark).
   # text_color_light = true  
 
