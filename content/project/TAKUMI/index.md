@@ -38,4 +38,4 @@ image = "headers/test.JPG"
 caption = ":smile:"
 
 +++
-Write sth here........
+[TAKUMI](https://mlfinfo.jp/en/bl19/ "TAKUMI") is a TOF neutron powder diffractometer dedicated for engineering sciences. Careful analysis of the Bragg peaks in a neutron diffraction pattern can reveal important structural details of a sample material such as internal stresses, phase conditions, dislocations, texture etc. Such information is often crucial in engineering applications and the ability to carry out either ex-situ or in-situ measurements makes neutron diffraction particularly useful in this respect.
