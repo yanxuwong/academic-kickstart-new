@@ -6,10 +6,12 @@ date = "2012-03-12"
 title = "TAKUMI"
 
 # Project summary to display on homepage.
-summary = "Solving various problems related to internal stresses and microstructures  
-1). Simultaneous strain measurement of more than two orthogonal strain components  
-2). Multi-peak  measurement  
-3). Highest strain accuracy by highest peak resolution"
+summary = “”“
+Solving various problems related to internal stresses and microstructures<br>
+1). Simultaneous strain measurement of more than two orthogonal strain components<br>
+2). Multi-peak  measurement<br>
+3). Highest strain accuracy by highest peak resolution<br>
+“”“
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "TAKUMI.jpg"
