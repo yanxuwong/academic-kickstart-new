@@ -1,6 +1,6 @@
 +++
 
-draft = true
+draft = false
 
 # Date this page was created.
 date = "2020-01-20"
@@ -33,8 +33,8 @@ name = "Previous Work"
 url = "/project/HUNS/"
 
 [header]
-image = "headers/test.JPG"
-caption = ":smile:"
+image = ""
+caption = ""
 
 +++
 Hokkaido University Neutron Source ([HUNS](https://www.eng.hokudai.ac.jp/labo/QBMA/LINAC/experiment.html "HUNS")) 
