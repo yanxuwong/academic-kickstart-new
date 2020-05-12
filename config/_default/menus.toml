@@ -15,19 +15,19 @@
   weight = 2
 
 [[main]]
-  name = "Publications"
-  url = "#featured"
+  name = "Research"
+  url = "#Research"
   weight = 3
 
-#[[main]]
-#  name = "Projects"
-#  url = "#projects"
-#  weight = 4
-
 [[main]]
-  name = "Talks"
-  url = "#talks"
-  weight = 5
+  name = "Publications"
+  url = "#featured"
+  weight = 4
+
+# [[main]]
+#  name = "Talks"
+#  url = "#talks"
+#  weight = 5
 
 [[main]]
   name = "Contact"
